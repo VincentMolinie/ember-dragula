@@ -1,6 +1,6 @@
 {
   "name": "vmolinie-ember-dragula",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "Ember wrapper for dragula https://github.com/bevacqua/dragula",
   "directories": {
     "doc": "doc",
